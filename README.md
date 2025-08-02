@@ -49,7 +49,6 @@ All reusable functions and training scripts are organized into the following Pyt
 - PyTorch
 - NumPy
 - Matplotlib
-- Pillow (PIL)
 - Jupyter Notebook
 
 ---
