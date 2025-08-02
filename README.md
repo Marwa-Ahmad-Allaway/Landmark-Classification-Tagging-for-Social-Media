@@ -1,4 +1,4 @@
-# Landmark Classification & Tagging for Social Media 🏛️📸
+# Landmark Classification & Tagging for Social Media 
 
 This repo is for **Landmark Classification Tagging for Social Media**, the **third project** in the **AWS Machine Learning Fundamentals Nanodegree** by Udacity.  
 The project is part of **Course 3: Convolutional Neural Networks**.
@@ -7,16 +7,16 @@ The main goal is to build a model that can classify images of landmarks and auto
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The project consists of:
 
-### 🔬 Jupyter Notebooks:
+###  Jupyter Notebooks:
 - `cnn_from_scratch.ipynb`: Builds a CNN from scratch using PyTorch.
 - `transfer_learning.ipynb`: Implements a model using transfer learning (e.g., ResNet).
 - `app.ipynb`: Runs the app and final trained model for inference.
 
-### 🌐 HTML Files (Notebook Exports):
+###  HTML Files (Notebook Exports):
 - `cnn_from_scratch.html`
 - `transfer_learning.html`
 -  `app.html`
@@ -25,7 +25,7 @@ These are exports of the notebooks for documentation or sharing purposes.
 
 ---
 
-### 📦 Submission Package Files (Python Scripts):
+###  Submission Package Files (Python Scripts):
 
 All reusable functions and training scripts are organized into the following Python modules:
 
@@ -43,7 +43,7 @@ All reusable functions and training scripts are organized into the following Pyt
 
 ---
 
-## 🧰 Important Technologies Used
+##  Important Technologies Used
 
 - Python 3.x
 - PyTorch
@@ -54,7 +54,7 @@ All reusable functions and training scripts are organized into the following Pyt
 
 ---
 
-## 📚 Related Course Info
+##  Related Course Info
 
 This project was completed as part of the **AWS Machine Learning Fundamentals Nanodegree**, specifically in:
 
@@ -63,7 +63,7 @@ This project was completed as part of the **AWS Machine Learning Fundamentals Na
 
 ---
 
-## ✅ Status
+##  Status
 
 - [x] Custom CNN model implemented  
 - [x] Transfer learning with pretrained models  
@@ -72,7 +72,7 @@ This project was completed as part of the **AWS Machine Learning Fundamentals Na
 
 ---
 
-## 📩 Author
+##  Author
 
 This project was submitted as part of the AWS ML Nanodegree – Project 3.  
 Feel free to explore or run to learn!
